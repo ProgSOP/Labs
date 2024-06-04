@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0QfOR9+0gJudkanLtTeTjhrfiKzcNvoEBi+++GDPd0UEDQaCEkF/yqfJ8U4WmqndzxnZBvJXEbzoguEmWvgzKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Loki\\source\\repos\\Telegram\\Telegram\\Telegram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Loki\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Loki\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Loki\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Loki\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512",
+    "C:\\Users\\Loki\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
